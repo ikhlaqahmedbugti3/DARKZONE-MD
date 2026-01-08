@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00CFFF&background=8B008B&center=true&vCenter=true&width=650&lines=WITH+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-> **CURRENT BOT VERSION ➜ `6.0.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `7.0.0 ⚡💯`**
 
 ---
 
@@ -98,14 +98,14 @@
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-       <td><a href="https://dark-zone-hosting-c4c34e97e034.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+       <td><a href="https://irfan-host-37cd59bbca05.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=forhttps://irfan-host-37cd59bbca05.herokuapp.com/-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://dark-zone-hosting-c4c34e97e034.herokuapp.com/" target="_blank">
+      <a href="https://irfan-host-37cd59bbca05.herokuapp.com/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
